@@ -34,14 +34,4 @@
 
 I'm a tech student and developer based in Panama. I have foundational knowledge in **Python, JavaScript, HTML, and CSS**, and I enjoy building modern, practical web solutions. My main aspiration is to pursue **Biomedical Engineering** to merge technology with healthcare innovation.
 
-```bash
-$ whoami
-> Laura Mosquera
 
-$ focus --now
-> web development
-> python programming
-> biomedical engineering concepts
-
-$ status
-> learning. building. improving.
