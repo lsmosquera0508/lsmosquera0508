@@ -35,6 +35,6 @@
 
 ## <font color="#00D8FF">01 — ABOUT ME</font>
 
-<font color="#80D8FF">Hi! I'm <b>Laura Mosquera</b> 👋</font>
+<font color="#80D8FF">Hi! I'm <b>Laura Mosquera</b> </font>
 
 I'm a tech student and developer based in Panama. I have foundational knowledge in **Python, JavaScript, HTML, and CSS**, and I enjoy building modern, practical web solutions. My main aspiration is
